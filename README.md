@@ -1,5 +1,5 @@
 # Excel-Regex
-![Alt text](/Excel%20Regex/screenshot.png?raw=true "Optional Title")
+![In-use screenshot](/Excel%20Regex/screenshot.png?raw=true "UDF Screenshot")
 
 This compiled Excel add-in brings regular expressions from C# into any Excel worksheet through two new functions:
 * RegexMatches: boolean check for whether an input string matches the regular expression
